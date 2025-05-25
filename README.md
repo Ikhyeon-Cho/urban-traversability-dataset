@@ -5,7 +5,7 @@
 
 <br>
 
-[🛠️ Download](#get-the-data) | [🎥 Video]() | [💻 Code](https://github.com/Ikhyeon-Cho/LeSTA) | [📖 Paper (RA-L)](https://ieeexplore.ieee.org/document/10468651)
+[🛠️ Download](#get-the-data) | [🎥 Video]() | [📖 Paper (RA-L)](https://ieeexplore.ieee.org/document/10468651) | [💻 How-to-train-model](https://github.com/Ikhyeon-Cho/LeSTA)
 
 <br>
 
@@ -65,22 +65,22 @@ Therefore, we've made an automated data collection pipeline, which labels the tr
 ### Download
 Use the following links to download the datasets. 
 
-**1. Urban Campus Dataset:** [[Google Drive](https://drive.google.com/drive/folders/1l14o5QE8Z5ldgQ0lO2D_KLKNIQVvB2Qr?usp=sharing)]
-- [parking_lot.bag](https://drive.google.com/drive/folders/16df1ZbN2SjjBQvhAS9EX5fHkJ85wHgfE?usp=sharing) (-> 15 min)
-- [wheelchair_ramp.bag](https://drive.google.com/drive/folders/1sk3j3hwHu3VUMTLs_DI3MVyxgch_4uQD?usp=sharing) (-> 5 min)
-- [campus_south.bag](https://drive.google.com/drive/folders/1NSslJuBo6XGyjKpxsPo8HG7VAMU_hEqc?usp=sharing) (-> 40 min)
-- [campus_east.bag](https://drive.google.com/drive/folders/1vKQ2pda6jSjldX7Rq-fqBiMSrf18jhfb?usp=sharing) (-> 7 min)
-- [campus_north.bag](https://drive.google.com/drive/folders/1tE8ag8oqOLQ_xRGvVf8WACGu07CUyXPK?usp=sharing)
-- [campus_west.bag](https://drive.google.com/drive/folders/1WeDotnT4zPD1zetEtvcp3O_dXAi7rZKO?usp=sharing)
-- [campus_full.bag](https://drive.google.com/drive/folders/1URP1RMi-O8e0v7mvyIFC80K34L4J_hSt?usp=sharing) (-> about 50 min)
-- [campus_full_long.bag](https://drive.google.com/drive/folders/1K8qeY7GaqmDP5BFLAzukuf1LrxLXPGok?usp=sharing) (-> 2h 18 min)
-- [campus_road_camera.bag](https://drive.google.com/drive/folders/1vanOoK2dcIbze5YHum0TSm1lOO2tlqP6?usp=sharing) (-> 10 min)
-- [ku_innovation_hall_4F.bag](https://drive.google.com/drive/folders/1uNsNPxqw25mWO8aBt2kjQj6W2Z6JQuL8?usp=sharing) (-> 7 min)
+**1. Urban Campus Dataset:** [[Google Drive](https://drive.google.com/drive/folders/183TBeVz4bP03MuXVHVSjRHlueewc1nlf?usp=drive_link)]
+- [parking_lot.bag](https://drive.google.com/drive/folders/1nd85p5rsKTL74_4HLTLm7EenFjHPm12_?usp=drive_link) (-> 15 min)
+- [multi_level_rampway.bag](https://drive.google.com/drive/folders/1CPQvUEKozZ9cKEjLJliN3kEovTb7-c3a?usp=drive_link) (-> 5 min)
+- [campus_south.bag](https://drive.google.com/drive/folders/1V55vRC87sQaBAaWWjAhTvrjr_3OkEQxh?usp=drive_link) (-> 40 min)
+- [campus_east.bag](https://drive.google.com/drive/folders/1V55vRC87sQaBAaWWjAhTvrjr_3OkEQxh?usp=drive_link) (-> 7 min)
+- [campus_north.bag](https://drive.google.com/drive/folders/1V55vRC87sQaBAaWWjAhTvrjr_3OkEQxh?usp=drive_link)
+- [campus_west.bag](https://drive.google.com/drive/folders/1V55vRC87sQaBAaWWjAhTvrjr_3OkEQxh?usp=drive_link)
+- [campus_full.bag](https://drive.google.com/drive/folders/1LLqkmNG6afVPdyN_ACEZ2k6hXNu-UtkE?usp=drive_link) (-> about 50 min)
+- [campus_full_long.bag](https://drive.google.com/drive/folders/1LLqkmNG6afVPdyN_ACEZ2k6hXNu-UtkE?usp=drive_link) (-> 2h 18 min)
+- [campus_road_camera.bag](https://drive.google.com/drive/folders/1LLqkmNG6afVPdyN_ACEZ2k6hXNu-UtkE?usp=drive_link) (-> 10 min)
+- [ku_innovation_hall_4F.bag](https://drive.google.com/drive/folders/1MuG2D3r42nBZszXDwN4JbErhAVHTSO8L?usp=drive_link) (-> 7 min)
 
-**2. Farm Road Dataset:** [[Google Drive](https://drive.google.com/drive/folders/168ChwknIusDksEj3KLq57-kcfWv4_ghr?usp=sharing)]
-- [country_road_training.bag](https://drive.google.com/drive/folders/1WzTZGSETp41iKhOsCWsTGiAXhPxjD2Db?usp=sharing) (-> 4 min)
-- [country_road_testing.bag](https://drive.google.com/drive/folders/1WzTZGSETp41iKhOsCWsTGiAXhPxjD2Db?usp=sharing) (-> 16 min)
-- [greenhouse.bag](https://drive.google.com/drive/folders/15R_Qcc_lZ4OfhlLhSKGsSqk2y5_wRRcn?usp=sharing) (-> 13 min)
+**2. Farm Road Dataset:** [[Google Drive](https://drive.google.com/drive/folders/10agKQhQwF4uSaMfpA9IK7qBZYxF6g-aS?usp=drive_link)]
+- [country_road_training.bag](https://drive.google.com/drive/folders/1YkoaqY1u1TsFm9jw4atJcMvaB4Ef20L-?usp=drive_link) (-> 4 min)
+- [country_road_testing.bag](https://drive.google.com/drive/folders/1YkoaqY1u1TsFm9jw4atJcMvaB4Ef20L-?usp=drive_link) (-> 16 min)
+- [greenhouse.bag](https://drive.google.com/drive/folders/1-oHQOaF4ARNNd7He0o5gFQpg_R4xsdIH?usp=drive_link) (-> 13 min)
 
 ### Play
 We provide `terrain_dataset_player` ROS package for playing the datasets with the basic `rviz` visualization settings. Please follow the instructions below to play the recorded rosbag files.
